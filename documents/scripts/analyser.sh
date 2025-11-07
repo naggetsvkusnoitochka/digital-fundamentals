@@ -1,1 +1,0 @@
-touch analyser.sh
